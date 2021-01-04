@@ -159,8 +159,8 @@
 		62E7893525A2AE4400FF78CF /* Targets */ = {
 			isa = PBXGroup;
 			children = (
-				62E7893625A2AE4400FF78CF /* Target_A.m */,
 				62E7893725A2AE4400FF78CF /* Target_A.h */,
+				62E7893625A2AE4400FF78CF /* Target_A.m */,
 			);
 			path = Targets;
 			sourceTree = "<group>";
